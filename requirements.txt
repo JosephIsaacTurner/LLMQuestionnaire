@@ -1,0 +1,5 @@
+django
+django-crispy-forms
+crispy_bootstrap5
+openai
+python-decouple
